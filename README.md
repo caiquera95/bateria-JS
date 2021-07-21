@@ -9,7 +9,7 @@ App para quebrar o biscoito e ver qual frase ele tem dentro.
 <p align="center">
   <img alt="Bateria1" src="https://ik.imagekit.io/aowlcgixdo/bateria_1.png?updatedAt=1626889965516" width="450" heigth="300">
   
-  <img alt="bateria2" src="https://ik.imagekit.io/aowlcgixdo/bateria_1.png?updatedAt=1626889965516" width="450" heigth="300">
+  <img alt="bateria2" src="https://ik.imagekit.io/aowlcgixdo/bateria_select_2.png?updatedAt=1626889950257" width="450" heigth="300">
 </p>
 
 ## 🚀 Tecnologias
