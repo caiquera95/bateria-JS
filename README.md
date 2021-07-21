@@ -1,5 +1,5 @@
 # Bateria com Javascript
-App para quebrar o biscoito e ver qual frase ele tem dentro.
+
 
 
 
@@ -14,10 +14,10 @@ App para quebrar o biscoito e ver qual frase ele tem dentro.
 
 ## 🚀 Tecnologias
 
-- [React Native](https://facebook.github.io/react-native/)
+-  HTML, CSS
 - [JavaScript](https://tableless.github.io/iniciantes/manual/js/)
 
 
 ## 💻 Projeto
 
-App simula um biscoito da cultura chinesa, onde contém frases dentro.
+WebSite que simula bateria conforme às teclas são acionadas.
